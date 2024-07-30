@@ -4,7 +4,7 @@ Welcome to **Speakify**, a simple and intuitive web application that converts te
 
 ## ![Screenshot of the Speakify app](images/speakify_screenshot.png)
 
-## [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://speakify.onrender.com)
+## [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://speakify-6p5j.onrender.com)
 
 ## 🛠️ Tech Stack
 
